@@ -1,0 +1,1 @@
+<css oncontentvisibilityautostatechange=alert(origin) style=display:block;content-visibility:auto>
